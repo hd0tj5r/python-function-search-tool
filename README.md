@@ -11,6 +11,9 @@
 - 可選擇是否將 API Key 存進 `.env`
 - 按「AI 產生 / 更新範例」後，會把產生的範例存回 `functions.db`
 
+## 影片
+https://youtu.be/Yx0LM-I0MUw
+
 ## 安裝
 
 ```bash
